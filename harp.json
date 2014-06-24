@@ -1,7 +1,7 @@
 {
   "domains": [""],
   "globals": {
-    "site_title": "Fifth Letter",
+    "site_title": "Harp Boilerplate",
     "twitter": "@HarpPlatform",
     "site_url": "http://localhost:9000",
     "disqus": {
